@@ -1,1 +1,2 @@
-demo: https://react-router-and-query-example.vercel.app/events
+demo: https://react-router-and-query-example.vercel.app
+
